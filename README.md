@@ -53,4 +53,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 
-If you have any questions or would like to get in touch, feel free to reach out to me at syedsami40525@gmail.com. You can also find more about me on my [personal website].
+If you have any questions or would like to get in touch, feel free to reach out to me at syedsami40525@gmail.com. You can also find more about me on my [personal website].https://tubular-wisp-sami-portfolio.netlify.app/
